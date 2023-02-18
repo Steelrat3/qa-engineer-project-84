@@ -176,7 +176,7 @@
 ---
 - summary: |
     Проверить успешную работу фильтра "бренды".
-  status: fail  
+  status: pass  
   
 ---
 - summary: |
