@@ -76,7 +76,7 @@
 ---
 - summary: |
     Проверить успешную работу фильтра "Цена" в браузере Explorer
-  status: pass
+  status: fail
 
 ---
 - summary: |
