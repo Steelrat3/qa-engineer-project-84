@@ -233,7 +233,7 @@
     Google Chrome 109.0.5414.75 (Официальная сборка), (64 бит).
     ОС Windows 10 Pro (64-разрядная).
   steps-to-reproduce: |
-    1 Открыть каталог со списком товаров по ссылке m.hexlet-products-store.vercel.app/.
+    1 Открыть каталог со списком товаров по ссылке hexlet-products-store.vercel.app/.
     2 Установить значение категории из выпадающего списка = "skincare".
     3 Проверяем, что товар отфильтрован по цвету. 
   expected-result: |
@@ -248,7 +248,7 @@
     Google Chrome 109.0.5414.75 (Официальная сборка), (64 бит).
     ОС Windows 10 Pro (64-разрядная).
   steps-to-reproduce: |
-    1 Открыть каталог со списком товаров по ссылке m.hexlet-products-store.vercel.app/.
+    1 Открыть каталог со списком товаров по ссылке hexlet-products-store.vercel.app/.
     2 Устанавливаем значение размера "от" = 0  и "-до" = 50.
     3 Проверяем, что товар отфильтрован по размеру. 
   expected-result: |
@@ -277,7 +277,7 @@
     Google Chrome 109.0.5414.75 (Официальная сборка), (64 бит).
     ОС Windows 10 Pro (64-разрядная).
   steps-to-reproduce: |
-    1 Открыть каталог со списком товаров по ссылке m.hexlet-products-store.vercel.app/.
+    1 Открыть каталог со списком товаров по ссылке hexlet-products-store.vercel.app/.
     Значение категории = "Все категории".
     Значение товара = "Samsung universe 9".
   steps: |
@@ -296,7 +296,7 @@
     Google Chrome 109.0.5414.75 (Официальная сборка), (64 бит).
     ОС Windows 10 Pro (64-разрядная).
   steps-to-reproduce: |
-    1 Открыть каталог со списком товаров по ссылке m.hexlet-products-store.vercel.app/.
+    1 Открыть каталог со списком товаров по ссылке hexlet-products-store.vercel.app/.
     2 В выпадающем списке выбираем значение языка = "English".
     3 В выпадающем списке выбираем значение языка = "Русский".
   expected-result: |
@@ -316,7 +316,7 @@
     Google Chrome 109.0.5414.75 (Официальная сборка), (64 бит).
     ОС Windows 10 Pro (64-разрядная).
   steps-to-reproduce: |
-    1 Открыть каталог со списком товаров по ссылке m.hexlet-products-store.vercel.app/.
+    1 Открыть каталог со списком товаров по ссылке hexlet-products-store.vercel.app/.
     2 Добавить товар "Samsung Galaxy book" в  количестве 1 шт. в корзину. 
     3 Добавить товар "MacBook Pro" в количестве 10 шт. в корзину.
     4 Войти в корзину.
@@ -332,7 +332,7 @@
     Google Chrome 109.0.5414.75 (Официальная сборка), (64 бит).
     ОС Windows 10 Pro (64-разрядная).
   steps-to-reproduce: |
-    1 Открыть каталог со списком товаров по ссылке m.hexlet-products-store.vercel.app/.
+    1 Открыть каталог со списком товаров по ссылке hexlet-products-store.vercel.app/.
     2 Добавить товар "MacBook Pro" в количестве 10 шт в корзину.
     3 Войти в корзину.
     4 Нажать кнопку "Checkout".
