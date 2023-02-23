@@ -486,7 +486,7 @@
 ---    
 - summary: |
     Проверить успешную работу фильтра "Цена" в браузере Google Chrome
- requirement: |
+  requirement: |
     В каталоге должен быть фильтр: Цена.
   prerequisites: |
     Браузер Google Chrome, последняя версия.
@@ -518,7 +518,7 @@
 ---    
 - summary: |
     Проверить успешную работу фильтра "Цена" в браузере Firefox
- requirement: |
+  requirement: |
     В каталоге должен быть фильтр: Цена.
   prerequisites: |
     Браузер Mozilla Firefox, последняя версия.
@@ -550,7 +550,7 @@
 ---    
 - summary: |
     Проверить успешную работу фильтра "Цена" в браузере Explorer
- requirement: |
+  requirement: |
     В каталоге должен быть фильтр: Цена.
   prerequisites: |
     Браузер Explorer, последняя версия.
