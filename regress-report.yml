@@ -8,7 +8,7 @@ test-cases:
     status: pass
  
 bugreports: []
-
+---
 test-cases:
   - summary: |
       Проверить успешное открытие мобильной версии каталога со списком товаров
